@@ -1,5 +1,5 @@
 # a
-&#8226; 分 享 小 站：
+&#8226; 小 站：
 <a href="http://25.dns2.us/d/" target="_blank">网址一</a>
 　<a href="http://ck.otzo.com/dd/" target="_blank">网址二</a>
 　<a href="http://20.120v.ac/read/go/8/" target="_blank">网址三</a>
