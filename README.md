@@ -16,6 +16,6 @@
 &#8226; 分 享 小 站：<br />
 <a href="http://ck.otzo.com/" target="_blank">http://ck.otzo.com/</a><br />
 <a href="http://687.wha.la/" target="_blank">http://687.wha.la/</a><br />
-&#8226; 视 频 小 站：<br />
+&#8226; 视 频 小 站：　<br />
 <a href="http://20.120v.ac/" target="_blank">http://20.120v.ac/</a><br />
 
